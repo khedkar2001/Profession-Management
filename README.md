@@ -1,6 +1,3 @@
-# Profession-Management
-Profession Management System
-
 # 👨‍💼 Employee Manager Web App
 
 A simple web application that allows users to manage a list of employees by adding and deleting them. The application strictly matches the UI shown in the design references , and is built using **HTML**, **CSS**, and **JavaScript**.
